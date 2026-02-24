@@ -1,0 +1,3 @@
+PROMP GPT:
+1. saya ingin membuat program menggunakan Bahasa Java, yang dimana diminta inputan: 1. jumlah Datanya (N) 2. Deret Nilai (n1,n2,n3....n4) 3. lalu kodenama pada deret disini memiliki deret yang ditetapkan jadi deretnya harus = A(nilaiawal)-10+15-10+15 begitu seterusnya dan tiap kodenama akan mengambil nilai dari pertama kedua dan selanjutnya buatkan output: kodenama , Nilai
+2. buat output modelan tabel dan tambahkan jumlah total nilainya

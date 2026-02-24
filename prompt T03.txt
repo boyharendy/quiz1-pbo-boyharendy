@@ -1,0 +1,5 @@
+PROMP GPT:
+1. saya ingin membuat program java yang dapat mendukung operasional londry sehari hari bisakah kamu memberikan
+2. buatkan programnya dan berikan contoh input outputnya
+3. karna sudah banyak status pesanan yang di ambil, buat fitur untuk menghapus semua list yang sudah di ambil dan menyisahkan list yang lainnya
+4. gabungkan codenya
